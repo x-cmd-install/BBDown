@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 9013941,
       "digest": null,
-      "download_count": 18877,
+      "download_count": 18924,
       "created_at": "2024-08-14T16:00:18Z",
       "updated_at": "2024-08-14T16:02:28Z",
       "browser_download_url": "https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_linux-arm64.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 9353961,
       "digest": null,
-      "download_count": 20461,
+      "download_count": 20536,
       "created_at": "2024-08-14T15:58:31Z",
       "updated_at": "2024-08-14T16:00:18Z",
       "browser_download_url": "https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_linux-x64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 9191237,
       "digest": null,
-      "download_count": 13489,
+      "download_count": 13514,
       "created_at": "2024-08-14T15:56:34Z",
       "updated_at": "2024-08-14T15:58:31Z",
       "browser_download_url": "https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_osx-arm64.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9549846,
       "digest": null,
-      "download_count": 7852,
+      "download_count": 7864,
       "created_at": "2024-08-14T15:53:58Z",
       "updated_at": "2024-08-14T15:56:34Z",
       "browser_download_url": "https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_osx-x64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7807263,
       "digest": null,
-      "download_count": 19991,
+      "download_count": 20026,
       "created_at": "2024-08-14T15:52:53Z",
       "updated_at": "2024-08-14T15:53:22Z",
       "browser_download_url": "https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_win-arm64.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 8040728,
       "digest": null,
-      "download_count": 121108,
+      "download_count": 121268,
       "created_at": "2024-08-14T15:53:25Z",
       "updated_at": "2024-08-14T15:53:53Z",
       "browser_download_url": "https://github.com/nilaoda/BBDown/releases/download/1.6.3/BBDown_1.6.3_20240814_win-x64.zip"

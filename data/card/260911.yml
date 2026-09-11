@@ -7,7 +7,7 @@ about:
   latestVersion: "1.6.3"
   latestRelease: "1.6.3"
   latestPrerelease: "b731.2"
-  collectedAt: 2026-09-11T02:29:38Z
+  collectedAt: 2026-09-11T20:48:01Z
 timeline:
   created: 2020-07-26
   lastCommit: 2026-05-14
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2024-08-14
   lastPrerelease: 2020-07-31
 popularity:
-  star: 13887
+  star: 13886
   watcher: 69
   fork: 1730
   release: 43
@@ -84,7 +84,7 @@ total:
   commit: 2
 ---
 path: /home/runner/.x-repo/github.com/nilaoda/BBDown
-collectedAt: 2026-09-11T02:29:40Z
+collectedAt: 2026-09-11T20:48:03Z
 loc:
   Markdown:
     code: 0
