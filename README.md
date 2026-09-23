@@ -6,7 +6,7 @@
 
 Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
 
-[![x-cmd/install — BBDown Code Quality Monitoring Repo Card](https://repo.x-cmd.io/BBDown.svg)](https://x-cmd.com/install/BBDown)
+[![x-cmd/install — BBDown Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/BBDown.svg)](https://x-cmd.com/install/BBDown)
 
 ## Install
 
@@ -37,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,883 · **Forks**: 1,739 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 13,882 · **Forks**: 1,739 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-09-27 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-10-02 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-09-28 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-10-03 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for BBDown lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T02:49:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T02:50:05Z._
