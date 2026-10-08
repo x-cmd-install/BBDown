@@ -20,9 +20,9 @@ x install BBDown
 
 评分最低的几项:
 
-- **Pinned-Dependencies** (-1/10) — no dependencies found
-- **Packaging** (-1/10) — packaging workflow not detected
-- **SAST** (0/10) — no SAST tool detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Dangerous-Workflow** (-1/10) — no workflows found
+- **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 
 ## 源代码
 
@@ -37,7 +37,7 @@ x install BBDown
 
 ## 流行度
 
-- **Star**: 13,874 · **Fork**: 1,747 · **开放 issue**: 0 · **贡献者**: 1
+- **Star**: 13,873 · **Fork**: 1,746 · **开放 issue**: 0 · **贡献者**: 1
 
 ## 累计统计
 
@@ -47,12 +47,12 @@ x install BBDown
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-10-12 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-10-17 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 30d | 2026-09-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-11 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-10-13 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-10-18 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ## Release 资产
 
@@ -74,4 +74,4 @@ BBDown 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T03:44:57Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T03:58:21Z._
