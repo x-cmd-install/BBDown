@@ -37,7 +37,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 13,861 · **Forks**: 1,745 · **Open issues**: 0 · **Contributors**: 1
+- **Stars**: 13,860 · **Forks**: 1,746 · **Open issues**: 0 · **Contributors**: 1
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-21 | 0 | 0 | 0 | 0 | 0 | 1 |
-| 360d | 2025-10-23 | 0 | 0 | 0 | 0 | 0 | 1 |
-| last720d | 2024-10-28 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-22 | 0 | 0 | 0 | 0 | 0 | 1 |
+| 360d | 2025-10-24 | 0 | 0 | 0 | 0 | 0 | 1 |
+| last720d | 2024-10-29 | 0 | 0 | 0 | 0 | 0 | 1 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for BBDown lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261018.yml` · 2026-10-18T02:33:05Z._
+_Snapshot: `data/card/261019.yml` · 2026-10-19T02:47:13Z._
